@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <!-- Include top -->
+    <!--#include file="includes/_top.html"-->
+	<body>
+        <div class="site">
+            <!-- Include header -->
+            <!--#include file="includes/_header.html"-->
+
+            <!-- Main content -->
+            <main class="main-content">
+                <section>
+                    <div class="wrapper">
+                        <p>Empty Html Template</p>
+                    </div>
+                </section>
+            </main>
+
+            <!-- Include footer -->
+            <!--#include file="includes/_footer.html"-->
+        </div>
+    </body>
+</html>
